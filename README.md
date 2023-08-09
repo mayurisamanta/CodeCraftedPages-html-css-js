@@ -1,1 +1,1 @@
-# CodeStaticPages-html-css
+# CodeCraftedPages-html-css-js
